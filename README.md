@@ -90,7 +90,7 @@ water-quality-clustering/
 ## team
 
 Marwan → Data Loading + EDA
-Fares → Data Cleaning + Scaling
-Seif → PCA + Optimal K + K-Means
+Fares → Data Cleaning + Scaling +PCA
+Seif →   Optimal K + K-Means
 Adham → DBSCAN + Visualizations
 Omar → Evaluation + Interpretation + Report
